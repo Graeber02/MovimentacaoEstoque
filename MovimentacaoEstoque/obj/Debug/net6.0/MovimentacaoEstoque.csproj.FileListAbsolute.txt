@@ -1,0 +1,16 @@
+C:\Users\graeb\source\repos\MovimentacaoEstoque\MovimentacaoEstoque\bin\Debug\net6.0\MovimentacaoEstoque.exe
+C:\Users\graeb\source\repos\MovimentacaoEstoque\MovimentacaoEstoque\bin\Debug\net6.0\MovimentacaoEstoque.deps.json
+C:\Users\graeb\source\repos\MovimentacaoEstoque\MovimentacaoEstoque\bin\Debug\net6.0\MovimentacaoEstoque.runtimeconfig.json
+C:\Users\graeb\source\repos\MovimentacaoEstoque\MovimentacaoEstoque\bin\Debug\net6.0\MovimentacaoEstoque.dll
+C:\Users\graeb\source\repos\MovimentacaoEstoque\MovimentacaoEstoque\bin\Debug\net6.0\MovimentacaoEstoque.pdb
+C:\Users\graeb\source\repos\MovimentacaoEstoque\MovimentacaoEstoque\obj\Debug\net6.0\MovimentacaoEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\graeb\source\repos\MovimentacaoEstoque\MovimentacaoEstoque\obj\Debug\net6.0\MovimentacaoEstoque.AssemblyInfoInputs.cache
+C:\Users\graeb\source\repos\MovimentacaoEstoque\MovimentacaoEstoque\obj\Debug\net6.0\MovimentacaoEstoque.AssemblyInfo.cs
+C:\Users\graeb\source\repos\MovimentacaoEstoque\MovimentacaoEstoque\obj\Debug\net6.0\MovimentacaoEstoque.csproj.CoreCompileInputs.cache
+C:\Users\graeb\source\repos\MovimentacaoEstoque\MovimentacaoEstoque\obj\Debug\net6.0\MovimentacaoEstoque.sourcelink.json
+C:\Users\graeb\source\repos\MovimentacaoEstoque\MovimentacaoEstoque\obj\Debug\net6.0\MovimentacaoEstoque.dll
+C:\Users\graeb\source\repos\MovimentacaoEstoque\MovimentacaoEstoque\obj\Debug\net6.0\refint\MovimentacaoEstoque.dll
+C:\Users\graeb\source\repos\MovimentacaoEstoque\MovimentacaoEstoque\obj\Debug\net6.0\MovimentacaoEstoque.pdb
+C:\Users\graeb\source\repos\MovimentacaoEstoque\MovimentacaoEstoque\obj\Debug\net6.0\MovimentacaoEstoque.genruntimeconfig.cache
+C:\Users\graeb\source\repos\MovimentacaoEstoque\MovimentacaoEstoque\obj\Debug\net6.0\ref\MovimentacaoEstoque.dll
+C:\Users\graeb\source\repos\MovimentacaoEstoque\MovimentacaoEstoque\bin\Debug\net6.0\estoque.json
