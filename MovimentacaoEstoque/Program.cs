@@ -1,6 +1,4 @@
-﻿
-using System.IO;
-using System.Text.Json;
+﻿using System.Text.Json;
 
 public class Produto
 {
@@ -44,7 +42,6 @@ class Program
         while (true)
         {
             Console.Clear();
-
             Console.WriteLine("------> PRODUTOS DISPONÍVEIS <------\n");
 
             // Lista produtos
@@ -60,15 +57,12 @@ class Program
             {
                 Console.WriteLine("\nEncerrando o sistema...");
                 break;
-
             }
-
 
             var produto = dados.estoque.FirstOrDefault(x => x.codigoProduto == codigo);
 
             if (produto == null)
             {
-
                 Console.WriteLine("Produto não encontrado!");
                 Console.ReadKey();
                 continue;
