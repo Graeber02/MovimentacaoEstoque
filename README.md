@@ -1,4 +1,4 @@
-📊 Cálculo de Comissão de Vendas — .NET 6
+📊 Cálculo de Movimentações de Estoque — .NET 6
 Este projeto é um aplicativo console em C# (.NET 6) que lê um arquivo JSON em uma pasta(codigo comentado) ou com o json direto no codigo, contendo produtos, estoque e cosigfo produto, onde é possivel realizar 
 movimentações de estoque dos produtos presente no json, dando entrada ou saída da mercadoria no meu depósito.
 
