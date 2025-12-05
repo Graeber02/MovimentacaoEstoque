@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\graeb\\source\\repos\\MovimentacaoEstoque\\MovimentacaoEstoque\\MovimentacaoEstoque.csproj",
+      "projectUniqueName": "C:\\Users\\graeb\\source\\repos\\MovimentacaoEstoque2\\MovimentacaoEstoque\\MovimentacaoEstoque.csproj",
       "projectName": "MovimentacaoEstoque",
-      "projectPath": "C:\\Users\\graeb\\source\\repos\\MovimentacaoEstoque\\MovimentacaoEstoque\\MovimentacaoEstoque.csproj",
+      "projectPath": "C:\\Users\\graeb\\source\\repos\\MovimentacaoEstoque2\\MovimentacaoEstoque\\MovimentacaoEstoque.csproj",
       "packagesPath": "C:\\Users\\graeb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\graeb\\source\\repos\\MovimentacaoEstoque\\MovimentacaoEstoque\\obj\\",
+      "outputPath": "C:\\Users\\graeb\\source\\repos\\MovimentacaoEstoque2\\MovimentacaoEstoque\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

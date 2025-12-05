@@ -71,6 +71,14 @@ class Program
             Console.Write("Movimentação (E = Entrada | S = Saída): ");
             string tipo = Console.ReadLine().ToUpper();
 
+            // 🔥 Validação para aceitar apenas E ou S
+            while (tipo != "E" && tipo != "S")
+            {
+                Console.WriteLine("Opção inválida! Digite apenas 'E' para Entrada ou 'S' para Saída.");
+                Console.Write("Movimentação (E = Entrada | S = Saída): ");
+                tipo = Console.ReadLine().ToUpper();
+            }
+
             int qtd = 0;
             bool quantidadeValida = false;
 

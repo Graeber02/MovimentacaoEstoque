@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MovimentacaoEstoque")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bab879e7a90ff9f63aa41d44e0d17a9b7c5a601e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4132116ee45c205d301c1f1f6bba7071f6c1066")]
 [assembly: System.Reflection.AssemblyProductAttribute("MovimentacaoEstoque")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MovimentacaoEstoque")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
